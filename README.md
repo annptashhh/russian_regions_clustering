@@ -18,7 +18,7 @@ russian_regions_clustering/
 │ └── clustering_analysis.ipynb  # Jupyter Notebook с полным анализом
 ├── images                       #Графики
 └── reports/
-└── report.docx        # Полный аналитический отчёт (PDF)
+└── report.docx                  # Полный аналитический отчёт (PDF)
 </pre>
 
 **Объект исследования:** 85 субъектов Российской Федерации.
